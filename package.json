@@ -1,0 +1,9 @@
+{
+  "name": "web-tabungan-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix web_tabungan run dev",
+    "build": "npm --prefix web_tabungan run build",
+    "start": "npm --prefix web_tabungan run start"
+  }
+}
